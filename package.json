@@ -1,0 +1,12 @@
+{
+  "name": "neighborhood-map",
+  "version": "1.0.0",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "merge-stream": "^1.0.1",
+    "ngrok": "^3.0.1",
+    "run-sequence": "^2.2.1"
+  }
+}
